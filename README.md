@@ -25,22 +25,21 @@ European Economy
 - GDP growth in 2024
 
 # 🛠 Technologies Used
-
 The project was developed in Python using the following libraries:
-> NumPy – numerical computing
-> Pandas – data analysis and data manipulation
-> Matplotlib – data visualization
-> Seaborn – statistical data visualization
+    > NumPy – numerical computing
+    > Pandas – data analysis and data manipulation
+    > Matplotlib – data visualization
+    > Seaborn – statistical data visualization
 
 # 📈 Visualization Approach
 Due to the large number of charts generated in this project, each visualization includes a short conclusion directly below the graph. This approach:
-> improves readability
-> keeps interpretations close to the data
-> helps maintain clarity throughout the analysis
+    > improves readability
+    > keeps interpretations close to the data
+    > helps maintain clarity throughout the analysis
 
 # 🎯 Project Goal
 The purpose of this project is to:
-> demonstrate data analysis skills
-> practice economic data visualization
-> explore global economic inequalities and trends
-> present complex data in a clear and accessible way
+    > demonstrate data analysis skills
+    > practice economic data visualization
+    > explore global economic inequalities and trends
+    > present complex data in a clear and accessible way
