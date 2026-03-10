@@ -14,18 +14,15 @@ Poland's Economic Development<br>
 - Comparison of Poland’s economic growth during governments led by PO and PiS<br>
 <br>
 International Comparisons<br>
-<br>
 - GDP per capita comparison between Poland, Germany, and France
 - GDP per capita difference between Poland and Germany
 - GDP per capita comparison between USA and China over time<br>
 <br>
 European Economy<br>
-<br>
 - GDP per capita in the Euro Area in 2004 vs 2024
 - Comparison of GDP among Euro Area countries in 2023 and 2024<br>
 <br>
 Global Perspective<br>
-<br>
 - The 15 wealthiest countries in the world
 - The 15 poorest countries in the world
 - GDP growth in 2024
