@@ -46,4 +46,4 @@ The purpose of this project is to:<br>
     > practice economic data visualization<br>
     > explore global economic inequalities and trends<br>
     > present complex data in a clear and accessible way<br>
-    
+     
